@@ -12,13 +12,13 @@ namespace FiledPaymentApplication.Common
             bool returnDateResponse = false;
             if (dateValid)
             {
-                returnDateResponse = IsDateValid(dateConvert);
+                returnDateResponse = IsDateInThePast(dateConvert);
             }
 
             return returnDateResponse;
         }
 
-        public static bool IsDateValid(DateTime date)
+        public static bool IsDateInThePast(DateTime date)
         {
             return date >= DateTime.Today;
         }
