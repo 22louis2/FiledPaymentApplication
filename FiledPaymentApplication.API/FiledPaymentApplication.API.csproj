@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.0.7" />
+	<PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.11" />
+	<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.11" />
+	<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.1">
+		<PrivateAssets>all</PrivateAssets>
+		<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	</PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FiledPaymentApplication.Common\FiledPaymentApplication.Common.csproj" />
+    <ProjectReference Include="..\FiledPaymentApplication.Core\FiledPaymentApplication.Core.csproj" />
+    <ProjectReference Include="..\FiledPaymentApplication.Data\FiledPaymentApplication.Data.csproj" />
+    <ProjectReference Include="..\FiledPaymentApplication.Model\FiledPaymentApplication.Model.csproj" />
+  </ItemGroup>
+
+
+</Project>

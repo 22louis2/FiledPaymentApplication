@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Model\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Model.deps.json
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Model\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Model.dll
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Model\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Model.pdb
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Model\bin\Debug\netcoreapp3.1\FiledPaymentApplication.DTO.dll
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Model\bin\Debug\netcoreapp3.1\FiledPaymentApplication.DTO.pdb
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Model\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Model.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Model\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Model.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Model\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Model.AssemblyInfo.cs
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Model\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Model.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Model\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Model.csproj.CopyComplete
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Model\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Model.dll
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Model\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Model.pdb

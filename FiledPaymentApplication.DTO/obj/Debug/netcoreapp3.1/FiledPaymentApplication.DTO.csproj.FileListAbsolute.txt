@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.DTO\bin\Debug\netcoreapp3.1\FiledPaymentApplication.DTO.deps.json
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.DTO\bin\Debug\netcoreapp3.1\FiledPaymentApplication.DTO.dll
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.DTO\bin\Debug\netcoreapp3.1\FiledPaymentApplication.DTO.pdb
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.DTO\obj\Debug\netcoreapp3.1\FiledPaymentApplication.DTO.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.DTO\obj\Debug\netcoreapp3.1\FiledPaymentApplication.DTO.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.DTO\obj\Debug\netcoreapp3.1\FiledPaymentApplication.DTO.AssemblyInfo.cs
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.DTO\obj\Debug\netcoreapp3.1\FiledPaymentApplication.DTO.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.DTO\obj\Debug\netcoreapp3.1\FiledPaymentApplication.DTO.dll
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.DTO\obj\Debug\netcoreapp3.1\FiledPaymentApplication.DTO.pdb

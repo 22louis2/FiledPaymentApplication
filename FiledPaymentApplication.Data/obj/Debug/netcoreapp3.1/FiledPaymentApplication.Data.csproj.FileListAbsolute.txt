@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Data\bin\Debug\netcoreapp3.1\FiledPaymentApplication.DTO.dll
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Data\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Model.dll
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Data\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Data.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Data\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Data.AssemblyInfo.cs
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Data\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Data.deps.json
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Data\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Data.runtimeconfig.json
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Data\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Data.runtimeconfig.dev.json
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Data\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Data.dll
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Data\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Data.pdb
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Data\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Model.pdb
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Data\bin\Debug\netcoreapp3.1\FiledPaymentApplication.DTO.pdb
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Data\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Data.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Data\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Data\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Data.csproj.CopyComplete
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Data\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Data.dll
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Data\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Data.pdb
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Data\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Data.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Core\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Core.deps.json
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Core\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Core.dll
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Core\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Core.pdb
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Core\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Data.dll
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Core\bin\Debug\netcoreapp3.1\FiledPaymentApplication.DTO.dll
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Core\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Model.dll
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Core\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Data.pdb
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Core\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Model.pdb
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Core\bin\Debug\netcoreapp3.1\FiledPaymentApplication.DTO.pdb
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Core\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Core.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Core\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Core.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Core\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Core.AssemblyInfo.cs
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Core\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Core\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Core.csproj.CopyComplete
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Core\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Core.dll
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Core\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Core.pdb

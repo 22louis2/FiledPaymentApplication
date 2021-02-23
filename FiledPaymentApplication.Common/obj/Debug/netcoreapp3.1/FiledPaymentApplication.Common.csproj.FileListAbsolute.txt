@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Common\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Common.deps.json
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Common\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Common.dll
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Common\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Common.pdb
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Common\bin\Debug\netcoreapp3.1\FiledPaymentApplication.DTO.dll
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Common\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Model.dll
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Common\bin\Debug\netcoreapp3.1\FiledPaymentApplication.Model.pdb
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Common\bin\Debug\netcoreapp3.1\FiledPaymentApplication.DTO.pdb
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Common\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Common.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Common\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Common.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Common\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Common.AssemblyInfo.cs
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Common\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Common.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Common\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Common.csproj.CopyComplete
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Common\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Common.dll
+C:\Users\hp\source\repos\FiledPaymentApplication\FiledPaymentApplication.Common\obj\Debug\netcoreapp3.1\FiledPaymentApplication.Common.pdb
